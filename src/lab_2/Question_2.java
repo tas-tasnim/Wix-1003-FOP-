@@ -2,13 +2,10 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package lab_2;
+
 import java.util.Scanner;
 
-/**
- *
- * @author tasni
- */
+
 public class Question_2 {
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
@@ -16,7 +13,7 @@ public class Question_2 {
         System.out.print("Enter the price of the car (P): ");
         double P = scanner.nextDouble();
         
-        System.out.print("Enter the down payment (D): ");
+        System.out.print("Enter the down payment- (D): ");
         double D = scanner.nextDouble();
         
         System.out.print("Enter the interest rate in % (R): ");

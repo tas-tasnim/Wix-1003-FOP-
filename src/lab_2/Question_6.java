@@ -2,15 +2,12 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package lab_2;
+
 import java.text.DecimalFormat;
 import java.text.NumberFormat;
 import java.util.Scanner;
 
-/**
- *
- * @author tasni
- */
+
 public class Question_6 {
     public static void main(String[] args){
 
